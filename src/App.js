@@ -1,6 +1,6 @@
-import React from 'react';
-import image from './images/expand-vertical-4.svg';
-import { AppContainer } from './App.styles';
+import React from "react";
+import image from "./images/expand-vertical-4.svg";
+import { AppContainer } from "./App.styles";
 
 function App() {
   return (
